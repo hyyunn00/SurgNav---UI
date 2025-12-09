@@ -22,15 +22,15 @@ The interface provides multi-view simulation pages, tumor localization aids, ner
 
 | Loading Page | User Guide Page |
 |-----------|------------------|
-| ![](screenshots/loading_page.png) | ![](screenshots/userguide_page.png) |
+| ![](screenshots/loading_page.jpg) | ![](screenshots/userguide_page.jpg) |
 
 | Tumor Selection Page | Simulation Page |
 |---------------|---------------|
-| ![](screenshots/choose_page.png) | ![](screenshots/simulation_page.png) |
+| ![](screenshots/choose_page.jpg) | ![](screenshots/simulation_page.jpg) |
 
 | Success Page | Game Over Page |
 |---------------|---------------|
-| ![](screenshots/success_page.png) | ![](screenshots/gameover_page.png) |
+| ![](screenshots/success_page.jpg) | ![](screenshots/gameover_page.jpg) |
 
 ---
 
